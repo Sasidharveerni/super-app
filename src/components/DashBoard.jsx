@@ -145,7 +145,7 @@ function DashBoard() {
                 </div>
 
 
-                <div className='ml-4 w-80 h-40 bg-[#101744] text-white rounded-3xl relative bottom-48'>
+                <div className='ml-4 w-80 h-40 bg-[#101744] text-white rounded-3xl'>
 
                     <div className=' w-80 h-10 rounded-3xl bg-[#FF4ADE] text-white font-bold flex text-xl'>
 
@@ -203,7 +203,7 @@ function DashBoard() {
 
                 </div>
 
-                <div className='bg-[#1E2343] w-2/3 h-54 ml-6 relative bottom-24 rounded-2xl flex justify-between'>
+                <div className='bg-[#1E2343] w-2/3 h-54 ml-6 rounded-2xl flex justify-between'>
 
                     <div className='mr-12 m-2'>
                         <Timer />
